@@ -2,6 +2,9 @@
 
 Decoder for EU Digital COVID Certificate (EUDCC) QR code data. Does **not** verify the signature. Created for learning purpose
 
+## Requirements
+
+- Go 1.16+
 ## Usage
 
 ```bash
