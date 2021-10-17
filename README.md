@@ -5,6 +5,7 @@ Decoder for EU Digital COVID Certificate (EUDCC) QR code data. Does **not** veri
 ## Requirements
 
 - Go 1.16+
+
 ## Usage
 
 ```bash
