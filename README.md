@@ -5,7 +5,7 @@ Decoder for EU Digital COVID Certificate (EUDCC) QR code data. Does **not** veri
 ## Usage
 
 ```bash
-go install github.com/popsu/covid-cert-reader@latest
+go install github.com/popsu/covid-cert-reader@v0.0.1
 
 curl -s https://raw.githubusercontent.com/eu-digital-green-certificates/dgc-testdata/main/FI/png/10.png > testimage.png
 
